@@ -2,4 +2,5 @@
 
 ## Índice
 - [Sobre a mostra](docs/sobre.md)
-- [Agenda](docs/agenda.md)
+- [Agenda](docs/programacao.md)
+## Como usar este manual
